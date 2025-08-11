@@ -1,7 +1,9 @@
 ## Self-Introduction
 
-Hello, my name is **Bharath**, and I am a recent graduate from **Sri Venkateswara University**, where I completed my **B.Tech in Computer Science**. I am passionate about **Machine Learning, Data Science, and Artificial Intelligence**, and I’m eager to start my professional journey in this field.
+Hello, my name is **Magham Sai Dhanush**, and I recently completed my **B.Tech in Computer Science and Engineering (Data Science)** from **Rajeev Gandhi Memorial College of Engineering & Technology, Andhra Pradesh** with a CGPA of **7.16**.
 
-I have strong technical skills in **Python, SQL, data preprocessing, feature engineering, and model building** using libraries such as **Scikit-Learn, Pandas, NumPy, and Matplotlib**. I am also familiar with **deep learning frameworks** like TensorFlow and PyTorch, and I have worked on projects involving **classification, regression, clustering, and NLP**.
+I am passionate about **Machine Learning, Data Science, and Generative AI**, with hands-on experience in building **classification models, NLP applications, and RAG-based AI chatbots**. My technical expertise includes **Python, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, LangChain, and FastAPI**, along with skills in **EDA, feature engineering, model tuning, and deployment**.
 
-Through my academic projects, I have honed my **problem-solving abilities**, **analytical thinking**, and ability to work with **real-world datasets**. I am a **quick learner**, **adaptable**, and motivated to contribute to **innovative ML solutions** that create real impact.
+During my internship at **AIML LABS Solutions Pvt Ltd**, I worked on projects like **a Generative AI-powered customer support chatbot** and **a credit card fraud detection model**, which helped me strengthen my skills in **vector databases, embeddings, cloud deployment, and CI/CD automation**.
+
+I am a **quick learner**, **detail-oriented**, and eager to contribute my **technical knowledge** and **creativity** to innovative AI and ML projects that make a real-world impact.
